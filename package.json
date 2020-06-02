@@ -12,7 +12,7 @@
     "tslib": "^1.9.0",
     "typescript": "^2.6.2",
     "webpack": "^3.10.0",
-    "webpack-dev-server": "^2.11.0"
+    "webpack-dev-server": "^3.1.11"
   },
   "dependencies": {
     "react": "^16.2.0",
